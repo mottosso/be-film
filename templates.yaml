@@ -1,2 +1,2 @@
-asset: "{cwd}/{project}/assets/{item}/{task}/private/{user}"
-shot: "{cwd}/{project}/film/{item}/private/{user}"
+asset: "{cwd}/{0}/assets/{1}/{2}/private/{user}"
+shot: "{cwd}/{0}/film/{1}/{2}/private/{user}"
