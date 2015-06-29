@@ -1,6 +1,7 @@
 asset:
-- myasset
+- bruce
+- luke
 
-shot:
-- seq01\shot001
-- seq02\shot002
+sequence:
+- seq01
+- seq02

@@ -1,2 +1,2 @@
 asset: "{cwd}/{0}/assets/{1}/{2}/private/{user}"
-shot: "{cwd}/{0}/film/{1}/{2}/private/{user}"
+sequence: "{cwd}/{0}/film/{1}/{2}/{3}/private/{user}"
